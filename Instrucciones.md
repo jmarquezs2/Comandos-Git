@@ -13,6 +13,7 @@ _git clone [url]
 ## Vista de archivos y directorios en forma de árbol
 ## Actualización de un repositorio en local
 ## Contenido de un directorio
+ ls
 ## Contenido de un fichero
 ## Creación de un fichero vacío
 _git touch
