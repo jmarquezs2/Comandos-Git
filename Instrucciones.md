@@ -29,3 +29,5 @@ _git config --global credential.helper 'cache --timeout=36000_
 ## Cambio de contexto hacia la rama master
 ## Fusión de ramas
 
+Alan Brito tiene 4 ramalazos
+
