@@ -8,7 +8,8 @@ _git config --global user.email "alan.brito.delgado.1972@gmail.com"_
 ### Cacheo de la contraseña durante la sesión
 _git config --global credential.helper 'cache --timeout=36000_
 ## Cambio de directorio
-## Clonación de repositorios
+## Clonación de repositorios //modificacion RRN
+_git clone [url]
 ## Vista de archivos y directorios en forma de árbol
 ## Actualización de un repositorio en local
 ## Contenido de un directorio
