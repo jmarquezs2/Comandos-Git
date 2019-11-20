@@ -14,7 +14,9 @@ _git config --global credential.helper 'cache --timeout=36000_
 ## Contenido de un directorio
 ## Contenido de un fichero
 ## Creación de un fichero vacío
+_git touch
 ## Edición de un fichero
+_git nano nombrefichero
 ## Estado de un repositorio
 ## Adición de ficheros y directorios al índice de elementos a tener en cuenta en el próximo commit
 ## Confirmación de cambios realizados
@@ -28,6 +30,4 @@ _git config --global credential.helper 'cache --timeout=36000_
 ## Actualización del repositorio remoto indicando que los cambios se hacen desde una rama distinta a la principal
 ## Cambio de contexto hacia la rama master
 ## Fusión de ramas
-
-Alan Brito tiene 4 ramalazos
 
