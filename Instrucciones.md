@@ -15,7 +15,9 @@ _git clone [url]
 ## Contenido de un directorio
 ## Contenido de un fichero
 ## Creación de un fichero vacío
+_git touch
 ## Edición de un fichero
+_git nano nombrefichero
 ## Estado de un repositorio
 ## Adición de ficheros y directorios al índice de elementos a tener en cuenta en el próximo commit
 ## Confirmación de cambios realizados
