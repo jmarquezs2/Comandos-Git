@@ -26,7 +26,12 @@ _git clone [url]
 ## Listado de todas las etiquetas existentes con sus correspondientes descripciones
 ## Actualización de las etiquetas en el repositorio remoto
 ## Creación de la rama experimentocolores y cambio de contexto hacia esa rama
+_git checkout -b experimentocolores
 ## Actualización del repositorio remoto indicando que los cambios se hacen desde una rama distinta a la principal
+_git push --set-upstream origin experimentocolores 
 ## Cambio de contexto hacia la rama master
+_git checkout master 
 ## Fusión de ramas
+_git merge experimentocolores
+_git push
 
